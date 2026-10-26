@@ -1,0 +1,251 @@
+product_id,product_name,category,brand,unit_cost_kes,list_price_kes,is_fictional
+SKU0001,Food Item 001,Food & Grocery,Jirani,443.3,808.52,True
+SKU0002,Home Item 002,Home & Kitchen,Tawi,584.4,933.82,True
+SKU0003,Personal Item 003,Personal Care,Bahari,1717.75,3559.34,True
+SKU0004,Electronics Item 004,Electronics,Mwangaza,1554.86,2651.53,True
+SKU0005,Clothing Item 005,Clothing,Kipepeo,1532.09,2272.85,True
+SKU0006,Stationery Item 006,Stationery,Milele,1145.65,1820.12,True
+SKU0007,Baby Item 007,Baby Products,Imara,1694.9,2273.17,True
+SKU0008,Sports Item 008,Sports & Outdoors,Pamoja,3066.28,6183.63,True
+SKU0009,Food Item 009,Food & Grocery,Jirani,933.47,1484.28,True
+SKU0010,Home Item 010,Home & Kitchen,Tawi,3108.57,4056.82,True
+SKU0011,Personal Item 011,Personal Care,Bahari,541.85,908.72,True
+SKU0012,Electronics Item 012,Electronics,Mwangaza,3363.17,5875.86,True
+SKU0013,Clothing Item 013,Clothing,Kipepeo,2943.09,4925.16,True
+SKU0014,Stationery Item 014,Stationery,Milele,1077.63,2150.94,True
+SKU0015,Baby Item 015,Baby Products,Imara,3664.52,5193.64,True
+SKU0016,Sports Item 016,Sports & Outdoors,Pamoja,595.01,1032.29,True
+SKU0017,Food Item 017,Food & Grocery,Jirani,2662.52,3831.62,True
+SKU0018,Home Item 018,Home & Kitchen,Tawi,3725.06,5975.83,True
+SKU0019,Personal Item 019,Personal Care,Bahari,1422.05,2445.84,True
+SKU0020,Electronics Item 020,Electronics,Mwangaza,3195.81,6077.58,True
+SKU0021,Clothing Item 021,Clothing,Kipepeo,733.89,1393.36,True
+SKU0022,Stationery Item 022,Stationery,Milele,1730.93,3136.16,True
+SKU0023,Baby Item 023,Baby Products,Imara,285.61,470.11,True
+SKU0024,Sports Item 024,Sports & Outdoors,Pamoja,1558.04,2603.61,True
+SKU0025,Food Item 025,Food & Grocery,Jirani,4073.93,6360.91,True
+SKU0026,Home Item 026,Home & Kitchen,Tawi,3209.37,4383.8,True
+SKU0027,Personal Item 027,Personal Care,Bahari,932.95,1515.06,True
+SKU0028,Electronics Item 028,Electronics,Mwangaza,475.93,899.17,True
+SKU0029,Clothing Item 029,Clothing,Kipepeo,1303.18,1872.96,True
+SKU0030,Stationery Item 030,Stationery,Milele,3619.42,5371.58,True
+SKU0031,Baby Item 031,Baby Products,Imara,1201.78,2363.02,True
+SKU0032,Sports Item 032,Sports & Outdoors,Pamoja,3032.54,3889.05,True
+SKU0033,Food Item 033,Food & Grocery,Jirani,1369.62,1969.71,True
+SKU0034,Home Item 034,Home & Kitchen,Tawi,2133.81,4230.69,True
+SKU0035,Personal Item 035,Personal Care,Bahari,286.59,593.24,True
+SKU0036,Electronics Item 036,Electronics,Mwangaza,1742.31,3454.91,True
+SKU0037,Clothing Item 037,Clothing,Kipepeo,1335.51,1794.54,True
+SKU0038,Stationery Item 038,Stationery,Milele,2829.03,5720.38,True
+SKU0039,Baby Item 039,Baby Products,Imara,1642.36,3302.7,True
+SKU0040,Sports Item 040,Sports & Outdoors,Pamoja,4314.03,5717.81,True
+SKU0041,Food Item 041,Food & Grocery,Jirani,4268.01,6326.17,True
+SKU0042,Home Item 042,Home & Kitchen,Tawi,3443.68,6431.72,True
+SKU0043,Personal Item 043,Personal Care,Bahari,1470.9,2342.61,True
+SKU0044,Electronics Item 044,Electronics,Mwangaza,900.12,1467.78,True
+SKU0045,Clothing Item 045,Clothing,Kipepeo,2601.83,3623.4,True
+SKU0046,Stationery Item 046,Stationery,Milele,1972.19,3229.25,True
+SKU0047,Baby Item 047,Baby Products,Imara,817.94,1190.82,True
+SKU0048,Sports Item 048,Sports & Outdoors,Pamoja,1892.61,2536.15,True
+SKU0049,Food Item 049,Food & Grocery,Jirani,4840.05,6307.16,True
+SKU0050,Home Item 050,Home & Kitchen,Tawi,1500.16,2979.0,True
+SKU0051,Personal Item 051,Personal Care,Bahari,541.74,934.08,True
+SKU0052,Electronics Item 052,Electronics,Mwangaza,4256.86,6219.27,True
+SKU0053,Clothing Item 053,Clothing,Kipepeo,2286.85,3151.0,True
+SKU0054,Stationery Item 054,Stationery,Milele,1798.52,2462.31,True
+SKU0055,Baby Item 055,Baby Products,Imara,752.1,1315.2,True
+SKU0056,Sports Item 056,Sports & Outdoors,Pamoja,2714.24,4858.59,True
+SKU0057,Food Item 057,Food & Grocery,Jirani,2611.52,4949.24,True
+SKU0058,Home Item 058,Home & Kitchen,Tawi,3186.25,4608.46,True
+SKU0059,Personal Item 059,Personal Care,Bahari,1655.28,2594.84,True
+SKU0060,Electronics Item 060,Electronics,Mwangaza,2269.28,3034.16,True
+SKU0061,Clothing Item 061,Clothing,Kipepeo,1623.31,2428.77,True
+SKU0062,Stationery Item 062,Stationery,Milele,1500.78,2142.84,True
+SKU0063,Baby Item 063,Baby Products,Imara,3262.9,4386.33,True
+SKU0064,Sports Item 064,Sports & Outdoors,Pamoja,1524.71,3016.73,True
+SKU0065,Food Item 065,Food & Grocery,Jirani,4482.68,6276.38,True
+SKU0066,Home Item 066,Home & Kitchen,Tawi,2483.32,3872.89,True
+SKU0067,Personal Item 067,Personal Care,Bahari,2029.75,2764.11,True
+SKU0068,Electronics Item 068,Electronics,Mwangaza,3334.73,5405.35,True
+SKU0069,Clothing Item 069,Clothing,Kipepeo,4160.8,6242.04,True
+SKU0070,Stationery Item 070,Stationery,Milele,1639.09,2416.04,True
+SKU0071,Baby Item 071,Baby Products,Imara,2758.38,4218.55,True
+SKU0072,Sports Item 072,Sports & Outdoors,Pamoja,783.09,1484.78,True
+SKU0073,Food Item 073,Food & Grocery,Jirani,2879.7,4247.67,True
+SKU0074,Home Item 074,Home & Kitchen,Tawi,2894.63,4929.6,True
+SKU0075,Personal Item 075,Personal Care,Bahari,3117.25,4421.42,True
+SKU0076,Electronics Item 076,Electronics,Mwangaza,2930.46,4866.53,True
+SKU0077,Clothing Item 077,Clothing,Kipepeo,2024.36,3170.06,True
+SKU0078,Stationery Item 078,Stationery,Milele,2777.57,3702.74,True
+SKU0079,Baby Item 079,Baby Products,Imara,4270.03,5787.83,True
+SKU0080,Sports Item 080,Sports & Outdoors,Pamoja,453.42,708.19,True
+SKU0081,Food Item 081,Food & Grocery,Jirani,2270.66,4473.88,True
+SKU0082,Home Item 082,Home & Kitchen,Tawi,2262.8,3449.31,True
+SKU0083,Personal Item 083,Personal Care,Bahari,1241.09,1999.12,True
+SKU0084,Electronics Item 084,Electronics,Mwangaza,3168.9,4925.39,True
+SKU0085,Clothing Item 085,Clothing,Kipepeo,2976.12,5584.27,True
+SKU0086,Stationery Item 086,Stationery,Milele,2703.01,3956.15,True
+SKU0087,Baby Item 087,Baby Products,Imara,2259.97,4396.32,True
+SKU0088,Sports Item 088,Sports & Outdoors,Pamoja,634.28,1022.14,True
+SKU0089,Food Item 089,Food & Grocery,Jirani,3452.33,6312.15,True
+SKU0090,Home Item 090,Home & Kitchen,Tawi,3542.75,4702.7,True
+SKU0091,Personal Item 091,Personal Care,Bahari,2937.09,5063.96,True
+SKU0092,Electronics Item 092,Electronics,Mwangaza,935.42,1929.94,True
+SKU0093,Clothing Item 093,Clothing,Kipepeo,2652.78,3666.11,True
+SKU0094,Stationery Item 094,Stationery,Milele,2533.21,3724.57,True
+SKU0095,Baby Item 095,Baby Products,Imara,1232.91,1681.4,True
+SKU0096,Sports Item 096,Sports & Outdoors,Pamoja,208.12,359.2,True
+SKU0097,Food Item 097,Food & Grocery,Jirani,2678.54,3697.18,True
+SKU0098,Home Item 098,Home & Kitchen,Tawi,2361.46,3836.99,True
+SKU0099,Personal Item 099,Personal Care,Bahari,3970.64,5430.39,True
+SKU0100,Electronics Item 100,Electronics,Mwangaza,346.67,572.59,True
+SKU0101,Clothing Item 101,Clothing,Kipepeo,1614.13,2319.5,True
+SKU0102,Stationery Item 102,Stationery,Milele,3783.71,5353.01,True
+SKU0103,Baby Item 103,Baby Products,Imara,1804.51,3252.29,True
+SKU0104,Sports Item 104,Sports & Outdoors,Pamoja,2783.17,4670.53,True
+SKU0105,Food Item 105,Food & Grocery,Jirani,4650.55,6397.89,True
+SKU0106,Home Item 106,Home & Kitchen,Tawi,412.04,594.33,True
+SKU0107,Personal Item 107,Personal Care,Bahari,3534.13,4537.31,True
+SKU0108,Electronics Item 108,Electronics,Mwangaza,991.09,1474.51,True
+SKU0109,Clothing Item 109,Clothing,Kipepeo,2259.39,4619.46,True
+SKU0110,Stationery Item 110,Stationery,Milele,2420.47,3320.88,True
+SKU0111,Baby Item 111,Baby Products,Imara,2537.88,4399.84,True
+SKU0112,Sports Item 112,Sports & Outdoors,Pamoja,2733.65,5485.6,True
+SKU0113,Food Item 113,Food & Grocery,Jirani,727.56,1016.06,True
+SKU0114,Home Item 114,Home & Kitchen,Tawi,2129.83,2886.0,True
+SKU0115,Personal Item 115,Personal Care,Bahari,2025.52,3860.22,True
+SKU0116,Electronics Item 116,Electronics,Mwangaza,2714.62,4230.11,True
+SKU0117,Clothing Item 117,Clothing,Kipepeo,1750.34,3426.71,True
+SKU0118,Stationery Item 118,Stationery,Milele,3439.0,4758.16,True
+SKU0119,Baby Item 119,Baby Products,Imara,991.89,1622.2,True
+SKU0120,Sports Item 120,Sports & Outdoors,Pamoja,512.5,744.23,True
+SKU0121,Food Item 121,Food & Grocery,Jirani,3343.24,5637.99,True
+SKU0122,Home Item 122,Home & Kitchen,Tawi,1386.89,2225.92,True
+SKU0123,Personal Item 123,Personal Care,Bahari,3313.25,5559.5,True
+SKU0124,Electronics Item 124,Electronics,Mwangaza,2596.31,4072.6,True
+SKU0125,Clothing Item 125,Clothing,Kipepeo,617.95,1237.59,True
+SKU0126,Stationery Item 126,Stationery,Milele,2001.57,2926.91,True
+SKU0127,Baby Item 127,Baby Products,Imara,3345.95,6213.56,True
+SKU0128,Sports Item 128,Sports & Outdoors,Pamoja,442.5,645.78,True
+SKU0129,Food Item 129,Food & Grocery,Jirani,3991.89,5403.12,True
+SKU0130,Home Item 130,Home & Kitchen,Tawi,2290.23,4058.33,True
+SKU0131,Personal Item 131,Personal Care,Bahari,561.16,996.48,True
+SKU0132,Electronics Item 132,Electronics,Mwangaza,578.16,1198.14,True
+SKU0133,Clothing Item 133,Clothing,Kipepeo,3326.23,4290.27,True
+SKU0134,Stationery Item 134,Stationery,Milele,2881.79,5941.06,True
+SKU0135,Baby Item 135,Baby Products,Imara,2562.44,4098.13,True
+SKU0136,Sports Item 136,Sports & Outdoors,Pamoja,711.63,1067.92,True
+SKU0137,Food Item 137,Food & Grocery,Jirani,3810.1,5030.84,True
+SKU0138,Home Item 138,Home & Kitchen,Tawi,771.7,1210.42,True
+SKU0139,Personal Item 139,Personal Care,Bahari,2647.84,3756.26,True
+SKU0140,Electronics Item 140,Electronics,Mwangaza,952.01,1602.16,True
+SKU0141,Clothing Item 141,Clothing,Kipepeo,3889.6,5226.64,True
+SKU0142,Stationery Item 142,Stationery,Milele,1727.37,3345.54,True
+SKU0143,Baby Item 143,Baby Products,Imara,2438.6,3276.22,True
+SKU0144,Sports Item 144,Sports & Outdoors,Pamoja,1790.52,2300.67,True
+SKU0145,Food Item 145,Food & Grocery,Jirani,2315.51,3034.71,True
+SKU0146,Home Item 146,Home & Kitchen,Tawi,1265.35,2386.67,True
+SKU0147,Personal Item 147,Personal Care,Bahari,1820.08,2355.8,True
+SKU0148,Electronics Item 148,Electronics,Mwangaza,2966.76,6000.32,True
+SKU0149,Clothing Item 149,Clothing,Kipepeo,2729.66,5334.36,True
+SKU0150,Stationery Item 150,Stationery,Milele,3553.52,5833.66,True
+SKU0151,Baby Item 151,Baby Products,Imara,676.4,1205.97,True
+SKU0152,Sports Item 152,Sports & Outdoors,Pamoja,3850.08,5546.4,True
+SKU0153,Food Item 153,Food & Grocery,Jirani,1010.73,1649.86,True
+SKU0154,Home Item 154,Home & Kitchen,Tawi,3153.73,4496.77,True
+SKU0155,Personal Item 155,Personal Care,Bahari,2970.79,5493.57,True
+SKU0156,Electronics Item 156,Electronics,Mwangaza,1673.05,2381.42,True
+SKU0157,Clothing Item 157,Clothing,Kipepeo,2497.34,3667.85,True
+SKU0158,Stationery Item 158,Stationery,Milele,1221.16,2104.03,True
+SKU0159,Baby Item 159,Baby Products,Imara,331.48,431.13,True
+SKU0160,Sports Item 160,Sports & Outdoors,Pamoja,2623.63,3395.18,True
+SKU0161,Food Item 161,Food & Grocery,Jirani,2679.69,4026.47,True
+SKU0162,Home Item 162,Home & Kitchen,Tawi,3168.61,4440.3,True
+SKU0163,Personal Item 163,Personal Care,Bahari,770.76,1084.04,True
+SKU0164,Electronics Item 164,Electronics,Mwangaza,2272.98,3732.99,True
+SKU0165,Clothing Item 165,Clothing,Kipepeo,1403.23,1864.69,True
+SKU0166,Stationery Item 166,Stationery,Milele,3969.84,5108.45,True
+SKU0167,Baby Item 167,Baby Products,Imara,3227.15,6336.26,True
+SKU0168,Sports Item 168,Sports & Outdoors,Pamoja,662.6,1310.14,True
+SKU0169,Food Item 169,Food & Grocery,Jirani,870.24,1216.94,True
+SKU0170,Home Item 170,Home & Kitchen,Tawi,899.62,1548.46,True
+SKU0171,Personal Item 171,Personal Care,Bahari,3311.35,5451.76,True
+SKU0172,Electronics Item 172,Electronics,Mwangaza,336.29,576.0,True
+SKU0173,Clothing Item 173,Clothing,Kipepeo,4570.56,6363.34,True
+SKU0174,Stationery Item 174,Stationery,Milele,2720.36,4189.67,True
+SKU0175,Baby Item 175,Baby Products,Imara,920.37,1261.46,True
+SKU0176,Sports Item 176,Sports & Outdoors,Pamoja,2872.35,3900.67,True
+SKU0177,Food Item 177,Food & Grocery,Jirani,3130.54,4982.07,True
+SKU0178,Home Item 178,Home & Kitchen,Tawi,1855.07,3032.79,True
+SKU0179,Personal Item 179,Personal Care,Bahari,1222.45,1868.55,True
+SKU0180,Electronics Item 180,Electronics,Mwangaza,1080.35,1884.1,True
+SKU0181,Clothing Item 181,Clothing,Kipepeo,508.21,718.51,True
+SKU0182,Stationery Item 182,Stationery,Milele,2755.7,4529.39,True
+SKU0183,Baby Item 183,Baby Products,Imara,1341.88,2722.78,True
+SKU0184,Sports Item 184,Sports & Outdoors,Pamoja,2595.33,5253.73,True
+SKU0185,Food Item 185,Food & Grocery,Jirani,4400.63,5920.34,True
+SKU0186,Home Item 186,Home & Kitchen,Tawi,3062.43,5332.68,True
+SKU0187,Personal Item 187,Personal Care,Bahari,1226.64,2196.13,True
+SKU0188,Electronics Item 188,Electronics,Mwangaza,1337.16,2690.86,True
+SKU0189,Clothing Item 189,Clothing,Kipepeo,3587.96,6002.72,True
+SKU0190,Stationery Item 190,Stationery,Milele,2470.1,3361.05,True
+SKU0191,Baby Item 191,Baby Products,Imara,1249.18,1643.17,True
+SKU0192,Sports Item 192,Sports & Outdoors,Pamoja,1639.98,2655.28,True
+SKU0193,Food Item 193,Food & Grocery,Jirani,1260.75,1854.63,True
+SKU0194,Home Item 194,Home & Kitchen,Tawi,2035.79,4215.28,True
+SKU0195,Personal Item 195,Personal Care,Bahari,2322.55,3850.82,True
+SKU0196,Electronics Item 196,Electronics,Mwangaza,2721.79,4721.32,True
+SKU0197,Clothing Item 197,Clothing,Kipepeo,1420.8,2360.17,True
+SKU0198,Stationery Item 198,Stationery,Milele,3568.89,4582.63,True
+SKU0199,Baby Item 199,Baby Products,Imara,2320.72,3626.2,True
+SKU0200,Sports Item 200,Sports & Outdoors,Pamoja,3013.21,5984.19,True
+SKU0201,Food Item 201,Food & Grocery,Jirani,3755.01,6424.66,True
+SKU0202,Home Item 202,Home & Kitchen,Tawi,2129.77,3210.44,True
+SKU0203,Personal Item 203,Personal Care,Bahari,1391.61,2799.9,True
+SKU0204,Electronics Item 204,Electronics,Mwangaza,1291.24,2305.35,True
+SKU0205,Clothing Item 205,Clothing,Kipepeo,1007.48,2021.17,True
+SKU0206,Stationery Item 206,Stationery,Milele,2687.05,5342.39,True
+SKU0207,Baby Item 207,Baby Products,Imara,917.87,1557.54,True
+SKU0208,Sports Item 208,Sports & Outdoors,Pamoja,1187.8,2065.21,True
+SKU0209,Food Item 209,Food & Grocery,Jirani,3429.95,5483.32,True
+SKU0210,Home Item 210,Home & Kitchen,Tawi,1456.41,2763.07,True
+SKU0211,Personal Item 211,Personal Care,Bahari,2375.96,4108.24,True
+SKU0212,Electronics Item 212,Electronics,Mwangaza,1377.09,2722.44,True
+SKU0213,Clothing Item 213,Clothing,Kipepeo,1348.34,2248.18,True
+SKU0214,Stationery Item 214,Stationery,Milele,1806.68,3664.25,True
+SKU0215,Baby Item 215,Baby Products,Imara,1188.31,2273.73,True
+SKU0216,Sports Item 216,Sports & Outdoors,Pamoja,1216.73,1962.79,True
+SKU0217,Food Item 217,Food & Grocery,Jirani,430.8,852.8,True
+SKU0218,Home Item 218,Home & Kitchen,Tawi,3697.12,4776.53,True
+SKU0219,Personal Item 219,Personal Care,Bahari,2146.62,3701.89,True
+SKU0220,Electronics Item 220,Electronics,Mwangaza,3360.53,6198.65,True
+SKU0221,Clothing Item 221,Clothing,Kipepeo,2274.9,3052.66,True
+SKU0222,Stationery Item 222,Stationery,Milele,2799.37,4161.47,True
+SKU0223,Baby Item 223,Baby Products,Imara,863.49,1295.55,True
+SKU0224,Sports Item 224,Sports & Outdoors,Pamoja,4692.39,6080.83,True
+SKU0225,Food Item 225,Food & Grocery,Jirani,3672.04,5426.98,True
+SKU0226,Home Item 226,Home & Kitchen,Tawi,1582.58,3102.45,True
+SKU0227,Personal Item 227,Personal Care,Bahari,2861.67,5433.35,True
+SKU0228,Electronics Item 228,Electronics,Mwangaza,96.27,190.95,True
+SKU0229,Clothing Item 229,Clothing,Kipepeo,2912.78,5034.15,True
+SKU0230,Stationery Item 230,Stationery,Milele,3064.79,4584.74,True
+SKU0231,Baby Item 231,Baby Products,Imara,745.35,1273.03,True
+SKU0232,Sports Item 232,Sports & Outdoors,Pamoja,774.89,1215.35,True
+SKU0233,Food Item 233,Food & Grocery,Jirani,2084.44,3001.57,True
+SKU0234,Home Item 234,Home & Kitchen,Tawi,470.34,646.06,True
+SKU0235,Personal Item 235,Personal Care,Bahari,1356.35,2152.41,True
+SKU0236,Electronics Item 236,Electronics,Mwangaza,2530.42,3592.67,True
+SKU0237,Clothing Item 237,Clothing,Kipepeo,960.34,1252.87,True
+SKU0238,Stationery Item 238,Stationery,Milele,390.38,660.68,True
+SKU0239,Baby Item 239,Baby Products,Imara,2020.96,2887.63,True
+SKU0240,Sports Item 240,Sports & Outdoors,Pamoja,1724.4,3486.91,True
+SKU0241,Food Item 241,Food & Grocery,Jirani,1778.11,2574.7,True
+SKU0242,Home Item 242,Home & Kitchen,Tawi,753.91,1325.73,True
+SKU0243,Personal Item 243,Personal Care,Bahari,4177.1,6167.63,True
+SKU0244,Electronics Item 244,Electronics,Mwangaza,2703.12,5500.72,True
+SKU0245,Clothing Item 245,Clothing,Kipepeo,596.92,1195.7,True
+SKU0246,Stationery Item 246,Stationery,Milele,2035.07,2903.96,True
+SKU0247,Baby Item 247,Baby Products,Imara,131.21,207.65,True
+SKU0248,Sports Item 248,Sports & Outdoors,Pamoja,1792.24,2644.27,True
+SKU0249,Food Item 249,Food & Grocery,Jirani,2225.64,4560.87,True
+SKU0250,Home Item 250,Home & Kitchen,Tawi,2105.97,4028.13,True

@@ -1,0 +1,101 @@
+customer_id,registration_date,first_purchase_date,customer_status_at_window_start,county,loyalty_tier,is_fictional
+C00001,2025-02-05,2025-02-05,observed_new,Mombasa,Standard,True
+C00002,2026-03-15,2026-03-15,observed_new,Uasin Gishu,Standard,True
+C00003,2026-08-17,2026-08-17,observed_new,Kisumu,Silver,True
+C00004,2024-10-11,2024-10-11,observed_new,Kiambu,Silver,True
+C00005,2025-09-28,2025-09-28,observed_new,Kisumu,Standard,True
+C00006,2025-12-17,2025-12-17,observed_new,Nakuru,Standard,True
+C00007,2025-12-22,2025-12-22,observed_new,Kiambu,Standard,True
+C00008,2026-07-25,2026-07-25,observed_new,Kisumu,Standard,True
+C00009,2025-11-17,2023-12-08,pre_existing,Nakuru,Gold,True
+C00010,2024-12-27,2024-12-27,observed_new,Kiambu,Standard,True
+C00011,2025-06-22,2025-06-22,observed_new,Nairobi,Standard,True
+C00012,2025-10-20,2025-10-20,observed_new,Kiambu,Gold,True
+C00013,2025-04-02,2025-04-02,observed_new,Kiambu,Silver,True
+C00014,2025-11-30,2025-11-30,observed_new,Uasin Gishu,Silver,True
+C00015,2026-09-02,2026-09-02,observed_new,Mombasa,Standard,True
+C00016,2025-07-09,2025-07-09,observed_new,Nairobi,Standard,True
+C00017,2025-07-02,2025-07-02,observed_new,Uasin Gishu,Standard,True
+C00018,2024-10-23,2024-10-23,observed_new,Nairobi,Standard,True
+C00019,2025-12-10,2024-05-04,pre_existing,Uasin Gishu,Standard,True
+C00020,2025-12-12,2025-12-12,observed_new,Mombasa,Standard,True
+C00021,2026-05-21,2024-05-22,pre_existing,Kiambu,Standard,True
+C00022,2025-04-08,2025-04-08,observed_new,Nairobi,Standard,True
+C00023,2025-07-10,2023-06-13,pre_existing,Nakuru,Standard,True
+C00024,2026-05-27,2023-11-25,pre_existing,Kiambu,Standard,True
+C00025,2026-05-17,2026-05-17,observed_new,Nairobi,Standard,True
+C00026,2025-12-30,2025-12-30,observed_new,Kisumu,Standard,True
+C00027,2025-08-29,2025-08-29,observed_new,Mombasa,Silver,True
+C00028,2025-04-25,2023-02-02,pre_existing,Kiambu,Silver,True
+C00029,2026-01-30,2026-01-30,observed_new,Uasin Gishu,Standard,True
+C00030,2025-05-05,2025-05-05,observed_new,Nairobi,Standard,True
+C00031,2025-02-07,2024-04-06,pre_existing,Uasin Gishu,Standard,True
+C00032,2024-10-16,2024-10-16,observed_new,Kiambu,Standard,True
+C00033,2024-11-03,2024-11-03,observed_new,Kisumu,Silver,True
+C00034,2025-04-15,2025-04-15,observed_new,Uasin Gishu,Silver,True
+C00035,2025-09-17,2025-09-17,observed_new,Nakuru,Silver,True
+C00036,2025-09-22,2025-09-22,observed_new,Uasin Gishu,Silver,True
+C00037,2024-11-04,2024-11-04,observed_new,Mombasa,Silver,True
+C00038,2024-11-13,2023-04-28,pre_existing,Uasin Gishu,Standard,True
+C00039,2025-03-04,2025-03-04,observed_new,Mombasa,Standard,True
+C00040,2025-04-21,2025-04-21,observed_new,Nairobi,Standard,True
+C00041,2025-05-21,2025-05-21,observed_new,Nakuru,Standard,True
+C00042,2024-10-12,2024-10-12,observed_new,Nakuru,Standard,True
+C00043,2024-12-03,2024-12-03,observed_new,Mombasa,Silver,True
+C00044,2025-04-16,2025-04-16,observed_new,Nakuru,Standard,True
+C00045,2025-11-22,2025-11-22,observed_new,Nairobi,Silver,True
+C00046,2026-01-19,2024-02-16,pre_existing,Kiambu,Standard,True
+C00047,2026-03-29,2023-08-09,pre_existing,Uasin Gishu,Standard,True
+C00048,2026-05-04,2026-05-04,observed_new,Nairobi,Standard,True
+C00049,2025-03-15,2025-03-15,observed_new,Nakuru,Standard,True
+C00050,2025-02-10,2025-02-10,observed_new,Nairobi,Silver,True
+C00051,2025-04-03,2024-08-19,pre_existing,Mombasa,Standard,True
+C00052,2026-06-02,2023-01-26,pre_existing,Nakuru,Standard,True
+C00053,2024-10-20,2024-10-20,observed_new,Mombasa,Silver,True
+C00054,2025-09-24,2023-08-13,pre_existing,Nairobi,Standard,True
+C00055,2025-08-07,2022-11-17,pre_existing,Uasin Gishu,Standard,True
+C00056,2025-01-12,2025-01-12,observed_new,Kisumu,Standard,True
+C00057,2024-12-13,2024-12-13,observed_new,Kiambu,Standard,True
+C00058,2025-12-05,2025-12-05,observed_new,Nakuru,Standard,True
+C00059,2026-05-22,2026-05-22,observed_new,Kiambu,Standard,True
+C00060,2026-03-04,2026-03-04,observed_new,Nakuru,Standard,True
+C00061,2025-07-29,2025-07-29,observed_new,Kisumu,Standard,True
+C00062,2025-11-24,2025-11-24,observed_new,Nairobi,Standard,True
+C00063,2026-05-02,2026-05-02,observed_new,Nakuru,Standard,True
+C00064,2026-07-17,2024-09-12,pre_existing,Nairobi,Silver,True
+C00065,2025-10-01,2025-10-01,observed_new,Kisumu,Standard,True
+C00066,2025-08-05,2025-08-05,observed_new,Kiambu,Gold,True
+C00067,2025-02-16,2025-02-16,observed_new,Kisumu,Standard,True
+C00068,2025-07-18,2025-07-18,observed_new,Nairobi,Standard,True
+C00069,2026-07-22,2026-07-22,observed_new,Kisumu,Silver,True
+C00070,2024-12-12,2024-12-12,observed_new,Uasin Gishu,Standard,True
+C00071,2025-10-10,2025-10-10,observed_new,Kisumu,Silver,True
+C00072,2025-11-01,2025-11-01,observed_new,Uasin Gishu,Silver,True
+C00073,2026-07-21,2023-08-03,pre_existing,Uasin Gishu,Standard,True
+C00074,2026-03-20,2026-03-20,observed_new,Mombasa,Silver,True
+C00075,2025-04-08,2025-04-08,observed_new,Nakuru,Standard,True
+C00076,2025-01-21,2025-01-21,observed_new,Kisumu,Silver,True
+C00077,2024-10-24,2024-10-24,observed_new,Kisumu,Silver,True
+C00078,2026-07-10,2026-07-10,observed_new,Kiambu,Silver,True
+C00079,2024-12-14,2024-12-14,observed_new,Nairobi,Silver,True
+C00080,2025-06-05,2025-06-05,observed_new,Kisumu,Standard,True
+C00081,2025-04-11,2025-04-11,observed_new,Mombasa,Silver,True
+C00082,2025-04-13,2025-04-13,observed_new,Kisumu,Standard,True
+C00083,2025-06-26,2025-06-26,observed_new,Kiambu,Standard,True
+C00084,2025-04-02,2025-04-02,observed_new,Nakuru,Standard,True
+C00085,2026-09-01,2026-09-01,observed_new,Nairobi,Standard,True
+C00086,2026-08-19,2026-08-19,observed_new,Kisumu,Silver,True
+C00087,2026-06-02,2026-06-02,observed_new,Nairobi,Standard,True
+C00088,2026-05-31,2026-05-31,observed_new,Nairobi,Gold,True
+C00089,2025-06-08,2025-06-08,observed_new,Kiambu,Silver,True
+C00090,2026-05-18,2026-05-18,observed_new,Nairobi,Standard,True
+C00091,2026-03-31,2026-03-31,observed_new,Nairobi,Silver,True
+C00092,2025-12-31,2023-09-26,pre_existing,Kiambu,Standard,True
+C00093,2024-10-06,2024-10-06,observed_new,Kisumu,Standard,True
+C00094,2025-08-11,2025-08-11,observed_new,Mombasa,Silver,True
+C00095,2025-02-22,2025-02-22,observed_new,Mombasa,Standard,True
+C00096,2025-07-17,2025-07-17,observed_new,Kiambu,Standard,True
+C00097,2025-08-07,2023-09-23,pre_existing,Nairobi,Standard,True
+C00098,2025-03-02,2025-03-02,observed_new,Mombasa,Standard,True
+C00099,2025-07-09,2025-07-09,observed_new,Nakuru,Standard,True
+C00100,2025-02-24,2023-05-12,pre_existing,Kiambu,Standard,True

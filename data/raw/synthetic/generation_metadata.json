@@ -1,0 +1,18 @@
+{
+  "random_seed": 20261026,
+  "python_version": "3.13.5",
+  "data_start": "2024-10-01",
+  "data_end": "2026-09-30",
+  "transactions": 80000,
+  "sales_lines": 175098,
+  "customers": 4000,
+  "products": 250,
+  "stores": 8,
+  "promotions": 24,
+  "transaction_status_counts": {
+    "SALE": 77126,
+    "RETURN": 2017,
+    "VOID": 857
+  },
+  "all_business_data_is_fictional": true
+}

@@ -1,0 +1,9 @@
+store_id,store_name,county,region,store_type,is_fictional
+ST001,Nairobi CBD,Nairobi,Kenya,Urban,True
+ST002,Westlands,Nairobi,Kenya,Urban,True
+ST003,Thika,Kiambu,Kenya,Urban,True
+ST004,Nakuru Town,Nakuru,Kenya,Urban,True
+ST005,Mombasa Central,Mombasa,Kenya,Urban,True
+ST006,Nyali,Mombasa,Kenya,Urban,True
+ST007,Kisumu Central,Kisumu,Kenya,Urban,True
+ST008,Eldoret,Uasin Gishu,Kenya,Urban,True
